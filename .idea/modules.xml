@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ProfessionAI.iml" filepath="$PROJECT_DIR$/.idea/ProfessionAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pkg-eg.iml" filepath="$PROJECT_DIR$/.idea/pkg-eg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/provider.iml" filepath="$PROJECT_DIR$/.idea/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/typesandpackages.iml" filepath="$PROJECT_DIR$/.idea/typesandpackages.iml" />
     </modules>
   </component>
 </project>
