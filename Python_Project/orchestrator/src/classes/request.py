@@ -1,7 +1,7 @@
 from enum import Enum
-from dataclasses import dataclass
 from typing import Self
 from uuid import UUID, uuid4
+
 from pydantic import BaseModel, Field, model_validator
 
 from utils.file_handler import check_folder
